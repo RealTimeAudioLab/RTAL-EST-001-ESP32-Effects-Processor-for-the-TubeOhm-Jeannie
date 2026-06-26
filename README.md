@@ -224,10 +224,10 @@ RTAL-EST-001-ESP32-DSP-for-Jeannie/
 | Original Jeannie Synthesizer | Rolf Degen / TubeOhm Instruments |
 | Original Jeannie Hardware | Rolf Degen |
 | Original Jeannie Firmware | Rolf Degen |
-| ESP32 Effects Hardware | Andreas Hülsmann / RealTimeAudioLab |
-| ESP32 Effects Firmware | Andreas Hülsmann / RealTimeAudioLab |
-| System Integration | Andreas Hülsmann / RealTimeAudioLab |
-| Stripboard Construction | Andreas Hülsmann / RealTimeAudioLab |
+| ESP32 Effects Hardware | RealTimeAudioLab |
+| ESP32 Effects Firmware | RealTimeAudioLab |
+| System Integration | RealTimeAudioLab |
+| Stripboard Construction | RealTimeAudioLab |
 | Selected DSP Algorithms / Inspiration | Marcel Licence |
 | TFT Graphics Library | Bodmer |
 | Touchscreen Library | Paul Stoffregen |
