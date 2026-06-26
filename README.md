@@ -4,9 +4,13 @@
 
 *Respecting an outstanding synthesizer design while exploring new possibilities in embedded digital signal processing.*
 
-![Hero image placeholder](images/hero.jpg)
+![Hero image placeholder](images/Jeannie_perfboard_with_wrapping_wire_TopView_1.jpg)
 
-> **Image placeholder:** Replace `images/hero.jpg` with a photograph of the completed instrument.
+*Image 1: TubeOhm Jeannie Perfboard with Wrapping Wire Top View
+
+![Hero image placeholder](images/Jeannie_perfboard_with_wrapping_wire_ButtomView.jpg)
+
+*Image 2: TubeOhm Jeannie Perfboard with Wrapping Wire Buttom View
 
 ---
 
@@ -254,32 +258,28 @@ Planned additions:
 
 ## Gallery
 
-Add photographs here:
+![image placeholder](images/Jeannie_perfboard_with_wrapping_wire_TopView_2.jpg)
 
-```markdown
-![Front panel](images/front_panel.jpg)
-![Internal overview](images/internal_overview.jpg)
-![ESP32 FX board](images/esp32_fx_board.jpg)
-![Veroboard wiring](images/veroboard_wiring.jpg)
+*Image 3: TubeOhm Jeannie Perfboard with Wrapping Wire Top View
+
+![image placeholder](images/ESP32A1S_EFX_Modul_1.jpg)
+
+*Image 4: ESP32A1S EFX Modul 
+
+![image placeholder](images/ESP32A1S_EFX_Modul_2.jpg)
+
+*Image 5: ESP32A1S EFX Modul 
+
+![image placeholder](images/ESP32A1S_EFX_Modul_3.jpg)
+
+*Image 6: ESP32A1S EFX Modul 
+
+![image placeholder](images/ESP32A1S_EFX_Modul_4.jpg)
+
+*Image 7: ESP32A1S EFX Modul 
 ```
-
----
-
-## Audio and Video Demonstrations
-
-Suggested media files:
-
-```text
-media/
-├── Jeannie_ESP32_DSP_Demo.mp4
-├── Audio_Demo_01.mp3
-└── Audio_Demo_02.mp3
-```
-
-Example README link:
-
-```markdown
-[Watch the demonstration video](media/Jeannie_ESP32_DSP_Demo.mp4)
+[Watch the demonstration video]
+(media/Jeannie_ESP32_DSP_Demo.mp4)
 ```
 
 ---
