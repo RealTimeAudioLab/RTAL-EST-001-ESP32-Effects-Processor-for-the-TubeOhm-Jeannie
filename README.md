@@ -6,11 +6,11 @@
 
 ![Hero image placeholder](images/Jeannie_perfboard_with_wrapping_wire_TopView_1.jpg)
 
-*Image 1: TubeOhm Jeannie Perfboard with Wrapping Wire Top View
+*Image 1: TubeOhm Jeannie Stripboard Top View
 
 ![Hero image placeholder](images/Jeannie_perfboard_with_wrapping_wire_ButtomView.jpg)
 
-*Image 2: TubeOhm Jeannie Perfboard with Wrapping Wire Buttom View
+*Image 2: TubeOhm Jeannie Stripboard Buttom View
 
 ---
 
@@ -52,7 +52,7 @@ For me, that design was the **TubeOhm Jeannie**.
 
 The Jeannie is a remarkable open-source DIY synthesizer created by **Rolf Degen**. It combines modern digital synthesis, hands-on control, a compact hardware concept and extensive documentation into a very inspiring instrument.
 
-When I decided to build my own Jeannie, I chose a traditional construction method: the complete instrument was built on **stripboard / Veroboard** using manual point-to-point wiring. This was not the easiest approach, but it created a very personal and educational build.
+When I decided to build my own Jeannie, I chose a traditional construction method: the complete instrument was built on **stripboard** using manual point-to-point wiring. This was not the easiest approach, but it created a very personal and educational build.
 
 During construction, I also wanted to explore a modification: replacing the original **Spin FV-1** effects processor with a custom **ESP32-based stereo DSP board**.
 
@@ -260,7 +260,7 @@ Planned additions:
 
 ![image placeholder](images/Jeannie_perfboard_with_wrapping_wire_TopView_2.jpg)
 
-*Image 3: TubeOhm Jeannie Perfboard with Wrapping Wire Top View
+*Image 3: TubeOhm Jeannie Stripboard Top View
 
 ![image placeholder](images/ESP32A1S_EFX_Modul_1.jpg)
 
