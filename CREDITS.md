@@ -4,7 +4,7 @@
 
 *Innovation is rarely created in isolation. Every engineering project benefits from the ideas, experience and generosity of those who came before.*
 
-This project is an engineering study by **Andreas Hülsmann / RealTimeAudioLab**.
+This project is an engineering study by **RealTimeAudioLab**.
 
 It builds upon the inspiration, documentation, libraries and open-source contributions of several outstanding developers and communities.
 
@@ -120,6 +120,6 @@ Thank you.
 
 ---
 
-© 2026 Andreas Hülsmann / RealTimeAudioLab
+© 2026 RealTimeAudioLab
 
 RTAL Engineering Heritage Collection
