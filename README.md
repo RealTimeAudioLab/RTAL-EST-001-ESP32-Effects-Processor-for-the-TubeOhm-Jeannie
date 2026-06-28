@@ -167,20 +167,6 @@ Instead of using manufactured PCBs, the synthesizer was built manually using:
 
 This traditional construction method requires careful planning, patience and systematic testing. It also makes the instrument a unique one-off build.
 
-Suggested image sequence:
-
-```text
-images/
-├── hero.jpg
-├── front_panel.jpg
-├── rear_panel.jpg
-├── internal_overview.jpg
-├── veroboard_top.jpg
-├── veroboard_wiring.jpg
-├── esp32_fx_board.jpg
-└── final_instrument.jpg
-```
-
 ---
 
 ## Repository Structure
